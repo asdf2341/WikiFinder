@@ -35,7 +35,7 @@ A simple Vue.js project that allows users to input a year and discover historica
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/historical-events-finder.git
+   git clone https://github.com/asdf2341/historical-events-finder.git
    cd historical-events-finder
    ```
 
