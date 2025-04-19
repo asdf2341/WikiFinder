@@ -2,14 +2,14 @@ Of course! Here's a clean and professional **README.md** you can use for your hi
 
 ---
 
-## 📜 Historical Yearly Events Finder
+# WikiFinder
 
-A simple Vue.js project that allows users to input a year and discover historical events that occurred during that time, using data pulled from the **Wikipedia API**.
+A simple Vue app that lets users search any keyword and get relevant articles using the Wikipedia API.
 
-### 🚀 Features
-
-- 🌐 Real-time data fetching from Wikipedia
-- 📅 Search by any year (e.g., 2001, 1969, 1776)
+## Features
+- 🔍 Live search from Wikipedia
+- 🧠 Supports any keyword (years, people, events, topics)
+- 💡 Clean UI and dynamic results
 - 🧠 HTML tags removed from content for clean display
 - 🧪 Built with **Vue.js**, **HTML**, and **CSS**
 - 💡 Clean and responsive UI with beautiful hover effects
