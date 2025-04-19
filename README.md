@@ -1,4 +1,4 @@
-Of course! Here's a clean and professional **README.md** you can use for your historical events project built with Vue.js, HTML, CSS, and the Wikipedia API.
+
 
 ---
 
