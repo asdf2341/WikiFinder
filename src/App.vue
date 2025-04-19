@@ -32,15 +32,15 @@
 
 <template>
    <div className="parent">
-    <h1>This is historical events site</h1>
-    <p>You can write a year and get events of this year!</p>
+    <h1>Wikifinder</h1>
+    <p>🔍 Search any year or keyword to explore related historical facts and Wikipedia articles!</p>
         <input  placeholder="Enter a year" v-model="years" >
         <button v-if="years!=''" @click="fetchEvents">Get Events</button>
         <table v-if="events.length > 0">
           <thead>
     <tr>
       <th>Title</th>
-      <th>History / Events</th>
+      <th>Events</th>
     </tr>
   </thead>
   <tbody>
